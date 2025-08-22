@@ -1,4 +1,4 @@
-# Store Rating App
+# Intern Coding Challenge - Rating App for Stores
 
 A full-stack web application for managing store ratings with role-based access control.
 
